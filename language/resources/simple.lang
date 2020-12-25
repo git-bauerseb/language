@@ -1,0 +1,4 @@
+var first :: string = "Hello";
+var second :: string = "World";
+ 
+print(first + " " + second);
